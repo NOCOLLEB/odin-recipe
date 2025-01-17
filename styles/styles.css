@@ -1,0 +1,35 @@
+.food_names,
+.recipe_header,
+.recipe_header a,
+.food_names a,
+.header{
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(300, 300, 300);
+    text-decoration: none;
+}
+.recipe_header,
+.header {
+   background-color: rgb(19, 51, 78); 
+   margin: 0;
+   padding: auto;
+}
+.food_names{
+    margin-top: 75px;
+    display: flex;
+    gap: 100px;
+    list-style: none;
+    justify-content: center;
+    margin: 0%;
+    padding: 0;
+    text-decoration: none;
+}
+
+.dish_image{
+    height: 300px;
+    width: auto;
+}
+.site_body{
+    background-color: rgb(0, 128, 128)
+}

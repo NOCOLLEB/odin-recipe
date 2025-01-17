@@ -15,7 +15,12 @@
    background-color: rgb(19, 51, 78); 
    margin: 0;
    padding: auto;
+   margin-bottom: 20px;
 }
+.recipe_header{
+    margin-bottom: 0%;
+}
+.text,
 .dish_name{
     color: white;
 }

@@ -10,10 +10,14 @@
     text-decoration: none;
 }
 .recipe_header,
+.dish_name,
 .header {
    background-color: rgb(19, 51, 78); 
    margin: 0;
    padding: auto;
+}
+.dish_name{
+    color: white;
 }
 .food_names{
     margin-top: 75px;
